@@ -1,15 +1,14 @@
-#input-container {
-    /* display: flex;
-    flex-direction: column; */
+body {
+    margin: 10px;
 }
 
-#input-container img {
-    width: 30%;
+button {
+    border-radius: 5px;
+}
+
+img {
+    width: 40%;
     display: block;
-}
-
-#response-container {
-    display: hidden;
 }
 
 .hidden {
